@@ -95,6 +95,9 @@ When a **new version** is out, you have **two methods** to _update_:
 | Categorized by functions   |         ✔️         |        ❌        |
 | New commands/values        |         ✔️         |        ❌        |
 | No old command leftovers   |         ✔️         |        ❌        |
+| Faceit Level               |         ![tsicons com-skill_level_max](https://github.com/user-attachments/assets/d0143e39-fe39-4472-9e2f-5684dd9354a7)|         ![tsicons com-skill_level_3](https://github.com/user-attachments/assets/08866413-504f-44ff-8020-2b4508b6ac4b)
+            
+
 
 ## Symbols
 
@@ -103,7 +106,7 @@ When a **new version** is out, you have **two methods** to _update_:
     <->: Analysis
     <i>: Informal
     <!>: Important
-
+    
      /\
      ||: Select any float/decimal value within the provided range
      \/
