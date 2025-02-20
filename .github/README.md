@@ -5,34 +5,6 @@
 
 <h4 align="center">A high-quality Counter-Strike 2 config built for gamers.</h4>
 
-<p align="center">
-    <a href="https://github.com/ArmynC/ArminC-AutoExec/commits/master">
-    <img src="https://img.shields.io/github/last-commit/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
-         alt="GitHub last commit">
-    <a href="https://github.com/ArmynC/ArminC-AutoExec/issues">
-    <img src="https://img.shields.io/github/issues-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
-         alt="GitHub issues">
-    <a href="https://github.com/ArmynC/ArminC-AutoExec/pulls">
-    <img src="https://img.shields.io/github/issues-pr-raw/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=github&logoColor=white"
-         alt="GitHub pull requests">
-</p>
-      
-<p align="center">
-  <a href="#installation">Installation</a> •
-  <a href="#updating">Updating</a> •
-  <a href="#features">Features</a> •
-  <a href="#symbols">Symbols</a> •
-  <a href="#binds">Binds</a> •
-  <a href="#wiki">Wiki</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#support">Support</a> •
-  <a href="#sponsor">Sponsor</a> •
-  <a href="#license">License</a>
-</p>
-
----
-
 <table>
 <tr>
 <td>
@@ -114,9 +86,6 @@ When a **new version** is out, you have **two methods** to _update_:
 ## Binds
 ![ArminC AutoExec Binds](https://raw.githubusercontent.com/ArmynC/ArminC-AutoExec/master/arminc_autoexec_binds.png)
 
-## Wiki
-
-Do you **need some help**? Check out the _articles_ on the [wiki](https://github.com/ArmynC/ArminC-AutoExec/wiki/).
 
 ## Contributing
 
